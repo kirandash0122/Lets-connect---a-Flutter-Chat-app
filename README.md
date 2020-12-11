@@ -7,4 +7,4 @@
     * Can caht with individual users by sending Messages
     * individual chat rooms for each pair of users
 ## Screenshots
-![ScreenShot](https://{drive.google.com/file/d/16CceI_g-6ZxHkiiTCZ2wLI-Pi2pt4poU/view?usp=sharing})
+![ScreenShot](https://{https://drive.google.com/file/d/16CceI_g-6ZxHkiiTCZ2wLI-Pi2pt4poU/view?usp=sharing})
